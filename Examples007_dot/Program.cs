@@ -1,4 +1,5 @@
-﻿Console.Clear();
+//Рисование фигрур через SetCursorPosition();
+Console.Clear();
 //Console.SetCursorPosition(10,3);
 //Console.WriteLine("+");
 
