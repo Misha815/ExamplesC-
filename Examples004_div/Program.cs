@@ -1,3 +1,3 @@
-﻿int NumberA = 10;
-int NumberB = 5;
-Console.Writeline(NumberA/NumberB);
+﻿double A = 3;
+double B = 2;
+Console.WriteLine(A/B);
